@@ -14,6 +14,7 @@ class ViewController: NSViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        // This was added to test the GITHub sync on 12 July 2017 by Chris Ok'
     }
 
     override var representedObject: Any? {
